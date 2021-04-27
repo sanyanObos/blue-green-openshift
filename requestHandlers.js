@@ -12,7 +12,7 @@ function start(response) {
         'content="text/html; charset=UTF-8" />'+
         '</head>'+
         '<body>' +
-        'test test' +
+        'ATC\'s new software work in progress...' +
         '<canvas id="myCanvas" width="578" height="200"></canvas>'+
         '<script>'+
         'var canvas = document.getElementById("myCanvas");'+
